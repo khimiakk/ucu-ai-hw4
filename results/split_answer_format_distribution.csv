@@ -1,0 +1,4 @@
+answer,original_count,train_count,validation_count,original_pct,train_pct,validation_pct
+Integer,1366,1094,272,89.5151,89.6721,88.8889
+Decimal,136,109,27,8.9122,8.9344,8.8235
+Fraction,24,17,7,1.5727,1.3934,2.2876

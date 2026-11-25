@@ -1,0 +1,4 @@
+Dataset,Problems,Percentage,Unique skills
+Original training set,1526,100.0,29
+Training split,1220,79.95,29
+Validation split,306,20.05,29

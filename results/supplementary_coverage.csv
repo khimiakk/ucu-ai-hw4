@@ -1,0 +1,4 @@
+field,problems_with_data,problems_without_data,coverage_pct,total_entries,mean_entries,min_entries,max_entries
+Steps,728,798,47.71,792,0.52,0,2
+Hints,1526,0,100.0,4578,3.0,3,3
+Typical errors,1526,0,100.0,2223,1.46,1,2

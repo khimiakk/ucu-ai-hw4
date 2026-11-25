@@ -1,0 +1,12 @@
+Check,Status
+Correct training size,PASS
+Correct validation size,PASS
+No train-validation ID overlap,PASS
+All original IDs preserved,PASS
+Unique training IDs,PASS
+Unique validation IDs,PASS
+All skills present in training,PASS
+All skills present in validation,PASS
+No duplicated statements across splits,PASS
+No training-test ID overlap,PASS
+No validation-test ID overlap,PASS

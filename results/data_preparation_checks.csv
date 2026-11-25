@@ -1,0 +1,13 @@
+check,status
+Dataset integrity,PASS
+Consistent skill metadata,PASS
+Canonical ground-truth answers,PASS
+Valid supplementary annotations,PASS
+Training-validation split integrity,PASS
+All answer formats in training,PASS
+All answer formats in validation,PASS
+Validation inputs exclude supervision,PASS
+Dataset fingerprint verified,PASS
+Training split reproducible,PASS
+Validation split reproducible,PASS
+All required output files available,PASS

@@ -1,0 +1,17 @@
+Metric,Value
+Original training problems,1526
+Training split problems,1220
+Validation split problems,306
+Competition test problems,3561
+Mathematical skills,29
+Integer answers,1366
+Decimal answers,136
+Fractional answers,24
+Canonical answers,1526
+Problems with intermediate steps,728
+Total intermediate values,792
+Total hints,4578
+Total annotated typical errors,2223
+Unique error types,57
+Random seed,42
+Validation proportion,20.05%
