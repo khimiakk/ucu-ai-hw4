@@ -1,0 +1,44 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets.json
+
+# Data
+data/*
+!data/.gitkeep
+
+# Kaggle submissions
+submissions/*
+!submissions/.gitkeep
+
+# Model weights and checkpoints
+models/
+checkpoints/
+outputs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+
+# Training logs
+wandb/
+runs/
+logs/
